@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aziz 👋
 
-<!--
-**AzizM07/AzizM07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering (IoT) student at FST – Faculté des Sciences de Tunis.
+Full-stack developer (React, Django, Flutter) interested in machine learning and IoT.
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://azizmehri.is-a.dev
+📧 mohamed.aziz.mehri.pro@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+- **[visual-product-search](https://github.com/AzizM07/visual-product-search)** — Visual product search with CLIP ViT-B/32 embeddings + FAISS similarity index, served by a FastAPI API.
+
+## Other projects
+- **[groshop-mobile](https://github.com/AzizM07/groshop-mobile)** — Flutter app for GROSHOP.tn, a Tunisian B2B wholesale marketplace I founded and develop.
+- **[fingerbot-api](https://github.com/AzizM07/fingerbot-api)** — Backend for Fingerbot, an ESP32-based IoT device (team project).
+- **[pharmasys](https://github.com/AzizM07/pharmasys)** — Pharmacy management app (Java).
+- **[FreshStockAi](https://github.com/AzizM07/FreshStockAi)** — *(one-line description)*
+
+## Tech
+Python · JavaScript/TypeScript · Dart · React · Django · FastAPI · Flutter · ESP32
